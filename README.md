@@ -19,6 +19,6 @@ Then add **hubot-fuck-yeah** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
+user1>> hubot fuck year
+hubot>> http://media.giphy.com/media/G9yZMzJe6pMYw/giphy.gif
 ```
